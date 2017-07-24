@@ -1,5 +1,10 @@
 # Copyright (c) ISA-tools Team.
 # Distributed under the terms of CPAL.
+#
+# This Dockerfile is a modofied version of
+# scipy-notebook/Dockerfile
+# Copyright (c) Jupyter Development Team.
+# Distributed under the terms of the Modified BSD License.
 FROM jupyter/minimal-notebook
 
 MAINTAINER ISA-tools Team <isatools@googlegroups.com>
