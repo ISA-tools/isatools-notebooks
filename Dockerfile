@@ -46,6 +46,7 @@ RUN conda install --quiet --yes \
     'vincent=0.4.*' \
     'beautifulsoup4=4.5.*' \
     'xlrd'  && \
+    ‘qgrid=0.3.*’  && \
     conda remove --quiet --yes --force qt pyqt && \
     conda clean -tipsy
 
