@@ -10,12 +10,12 @@ Install Python requirements with `pip install -r requirements.txt`.
 
 #### In Python
 
-If your using `qgrid`, either in your Jupyter Notebook or in iPython ensure the following lines are run once to make sure `qgrid` is fully installed into your Jupyter instance:
+If your using `qgrid`, either in your Jupyter Notebook or in a Python or iPython console, ensure the following lines are run once to make sure `qgrid` is fully installed into your Jupyter instance:
 ```
 import qgrid
 qgrid.nbinstall(overwrite=True)
 ```
-This copies some JavaScript that `qgrid` needs to render tables in Jupyter.
+This copies some JavaScript that `qgrid` needs to render tables in Jupyter. [See here](http://nbviewer.jupyter.org/gist/TimShawver/8fcef51dd3c222ed25306c002ab89b60#Notebook-installation) for further clarification.
 
 #### In the terminal window again
 
