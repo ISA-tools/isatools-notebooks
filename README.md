@@ -19,7 +19,7 @@ This copies some JavaScript that `qgrid` needs to render tables in Jupyter. [See
 
 #### In the terminal window again
 
-Before starting Jupyter, please ensure notebook extensions are enabled with `jupyter nbextension enable --py widgetsnbextension`.
+Before starting Jupyter (or if you did the previous step inside Jupyter, exit Jupyter first and return to the terminal prompt), please ensure notebook extensions are enabled with `jupyter nbextension enable --py widgetsnbextension`.
 
 Start Jupyter Notebook with `jupyter notebook`. This should automatically spawn a browser Window running Jupyter. If it does not, in the terminal window it will give you a link in some text like:
 
