@@ -14,19 +14,23 @@ ipykernel==4.6.1
 ipython==6.1.0
 ipython-genutils==0.2.0
 ipywidgets==6.0.0
--e git+http://github.com/ISA-tools/isa-api@84f1e54de7e6e01c54ba3719f7650c01f13e4f48#egg=isatools
+-e git+http://github.com/ISA-tools/isa-api@540a3a22ee9ed0135c994e7f19c699ab93f5f572#egg=isatools
 iso8601==0.1.12
 jdcal==1.3
 jedi==0.10.2
 Jinja2==2.9.6
 jsonschema==2.6.0
 jupyter-client==5.1.0
+jupyter-contrib-core==0.3.1
 jupyter-core==4.3.0
+jupyter-dashboards==0.7.0
+jupyter-nbextensions-configurator==0.2.5
 lxml==3.8.0
 MarkupSafe==1.0
 mistune==0.7.4
 mzml2isa==0.5.1
 nbconvert==5.2.1
+nbextensions==0.0.6
 nbformat==4.3.0
 networkx==1.11
 notebook==5.0.0
@@ -44,6 +48,7 @@ Pygments==2.2.0
 python-dateutil==2.6.1
 python-utils==2.2.0
 pytz==2017.2
+PyYAML==3.12
 pyzmq==16.0.2
 qgrid==0.3.3
 requests==2.18.3
