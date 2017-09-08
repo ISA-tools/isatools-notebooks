@@ -2,19 +2,19 @@
 
 This repository contains notebooks to demonstrate the `isatools` software package.
 
-`notebooks/Create a simple ISA descriptor.ipynb` - Create ISA files using the ISA model objects.
+`Create a simple ISA descriptor.ipynb` - Create ISA files using the ISA model objects.
 
-`notebooks/Update Investigation using ISA Model.ipynb` - Load an ISA-Tab, update it using ISA model objects, and write back to ISA-Tab.
+`Update Investigation using ISA Model.ipynb` - Load an ISA-Tab, update it using ISA model objects, and write back to ISA-Tab.
 
-`notebooks/Study Designer (Sample QC injection).ipynb` - Generate ISA-Tab using the sample planning objects with quality control elements.
+`Study Designer (Sample QC injection).ipynb` - Generate ISA-Tab using the sample planning objects with quality control elements.
 
-`notebooks/Study Designer (DNA microarray).ipynb` - Generate ISA-Tab using sample and assay planning for DNA microarray.
+`Study Designer (DNA microarray).ipynb` - Generate ISA-Tab using sample and assay planning for DNA microarray.
 
-`notebooks/Study Designer (DNA sequencing).ipynb` - Generate ISA-Tab using sample and assay planning for DNA sequencing.
+`Study Designer (DNA sequencing).ipynb` - Generate ISA-Tab using sample and assay planning for DNA sequencing.
 
-`notebooks/Study Designer (Mass spectrometry).ipynb` - Generate ISA-Tab using sample and assay planning for Mass Spectrometry.
+`Study Designer (Mass spectrometry).ipynb` - Generate ISA-Tab using sample and assay planning for MS.
 
-`notebooks/Study Designer (NMR).ipynb` - Generate ISA-Tab using sample and assay planning for NMR.
+`Study Designer (NMR).ipynb` - Generate ISA-Tab using sample and assay planning for NMR.
 
 ## To run locally:
 
