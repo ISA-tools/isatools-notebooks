@@ -15,7 +15,7 @@ ipykernel==4.6.1
 ipython==6.1.0
 ipython-genutils==0.2.0
 ipywidgets==6.0.0
--e git+http://github.com/ISA-tools/isa-api@6d42692a6c6d6160b616d0761b5548237d9b0916#egg=isatools
+-e git+http://github.com/ISA-tools/isa-api@50c9504ca90c68672b02ef99e1afae87bce23940#egg=isatools
 iso8601==0.1.12
 jdcal==1.3
 jedi==0.10.2
