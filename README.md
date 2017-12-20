@@ -1,6 +1,7 @@
 # launch the exercise solution
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ISA-tools/isatools-notebooks/dtp?filepath=exercise1-sol.ipynb)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ISA-tools/isatools-notebooks/dtp?filepath=notebooks%2Fexercise1-sol.ipynb)
+
 
 
 # isatools-notebooks
