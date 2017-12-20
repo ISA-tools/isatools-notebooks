@@ -14,7 +14,7 @@ idna==2.6
 ipykernel==4.6.1
 ipython==6.1.0
 ipython-genutils==0.2.0
-ipywidgets==6.0.0
+ipywidgets>=7.0.0
 isatools==0.9.4
 iso8601==0.1.12
 jdcal==1.3
