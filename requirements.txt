@@ -14,7 +14,7 @@ idna==2.6
 ipykernel==4.6.1
 ipython==6.1.0
 ipython-genutils==0.2.0
-ipywidgets==6.0.0
+ipywidgets>=7.0.0
 -e git+http://github.com/ISA-tools/isa-api@47bae1d8d20980998ae5bdd91fc3fca5af5e07f7#egg=isatools
 iso8601==0.1.12
 jdcal==1.3
