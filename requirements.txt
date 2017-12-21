@@ -52,7 +52,7 @@ python-utils==2.2.0
 pytz==2017.2
 PyYAML==3.12
 pyzmq==16.0.2
-qgrid==0.3.3
+qgrid>=1.0.0b10
 requests==2.18.4
 simplegeneric==0.8.1
 six==1.11.0
