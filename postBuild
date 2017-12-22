@@ -1,3 +1,4 @@
+jupyter nbextension enable --py widgetsnbextension
 jupyter nbextension enable --py --sys-prefix qgrid
 
 # Notebooks w/ extensions that auto-run code must be "trusted" to work the first time
