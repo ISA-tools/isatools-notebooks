@@ -46,7 +46,7 @@ progressbar2==3.34.3
 prompt-toolkit==1.0.15
 pronto==0.8.0
 ptyprocess==0.5.2
-Pygments==2.2.0
+Pygments==2.7.4
 python-dateutil==2.6.1
 python-utils==2.2.0
 pytz==2017.2
