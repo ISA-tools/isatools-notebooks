@@ -27,7 +27,7 @@ jupyter-contrib-core==0.3.1
 jupyter-core==4.3.0
 jupyter-dashboards==0.7.0
 jupyter-nbextensions-configurator==0.2.5
-lxml==4.0.0
+lxml==4.6.3
 MarkupSafe==1.0
 mistune==0.7.4
 mzml2isa==0.5.1
