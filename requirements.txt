@@ -53,7 +53,7 @@ pytz==2017.2
 PyYAML==3.12
 pyzmq==16.0.2
 qgrid==0.3.3
-requests==2.18.4
+requests==2.20.0
 simplegeneric==0.8.1
 six==1.11.0
 terminado==0.6
