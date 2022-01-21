@@ -12,7 +12,7 @@ et-xmlfile==1.0.1
 html5lib==0.999999999
 idna==2.6
 ipykernel==4.6.1
-ipython==6.1.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 ipywidgets>=7.0.0
 -e git+http://github.com/ISA-tools/isa-api@47bae1d8d20980998ae5bdd91fc3fca5af5e07f7#egg=isatools
